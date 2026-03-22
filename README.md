@@ -2,13 +2,15 @@
 
 Вариант: 31
 
+К сожалению, из-за территориальных ограничений не удалось выполнить работу в gitlab.
+
 **Git Add**
 
-<img src=git add.png/>
+<img src=git%20add.png/>
 
 **git push**
 
-<img src=git push.png/>
+<img src=git%20push.png/>
 
 **gitverse checkout**
 
@@ -20,12 +22,12 @@
 
 **gitverse docker log**
 
-<img src=docker log.png/>
+<img src=docker%20log.png/>
 
 **git push github**
 
-<img src=git push github.png/>
+<img src=git%20push%20github.png/>
 
 **github actions**
 
-<img src=github actions.png/>
+<img src=github%20actions.png/>
